@@ -1,0 +1,13 @@
+container {
+    background-color: rgb(111, 185, 214);
+  }
+
+
+h1 {
+    color: navy;
+    margin-left: 20px;
+  }
+
+.col-md-12{
+    background-color: rgb(111, 185, 214);
+}
